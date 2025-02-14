@@ -1,0 +1,11 @@
+Objects in memory:
+[1] "age"  "name"
+
+Details of objects in memory:
+age :  num 20
+name :  chr "Tejeswar Reddy"
+
+Memory usage summary:
+          used (Mb) gc trigger (Mb) max used (Mb)
+Ncells  878663 47.0    1466178 78.4  1466178 78.4
+Vcells 2235982 17.1    8388608 64.0  3583835 27.4
