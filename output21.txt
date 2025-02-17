@@ -1,0 +1,5 @@
+Second row of the second matrix:
+[1] 13 14 15
+
+Element in the 3rd row and 3rd column of the first matrix:
+[1] 9
