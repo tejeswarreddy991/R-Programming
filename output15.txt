@@ -1,0 +1,11 @@
+Numeric vector:
+ 1.2 2.3 3.4 
+Type: double 
+
+Character vector:
+ A B C 
+Type: character 
+
+Logical vector:
+ TRUE FALSE TRUE 
+Type: logical 

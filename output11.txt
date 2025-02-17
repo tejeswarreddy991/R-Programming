@@ -1,0 +1,5 @@
+Unique characters in the string:
+ h e l o   w r d 
+
+Unique numbers in the vector:
+ 1 2 3 4 5 6 
